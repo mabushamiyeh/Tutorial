@@ -5,7 +5,7 @@ authors:
   - name: John Doe
   - name: Mary Jane
 ---
-
+m
 ![relevant graphic or workshop logo](image/path)
 
 ## Introduction
